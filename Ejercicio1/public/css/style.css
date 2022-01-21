@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+}
+#actual_time{
+    margin-top: 20%;
+}
